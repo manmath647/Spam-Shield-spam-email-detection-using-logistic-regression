@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-16a35e?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -120,47 +119,26 @@ numpy
 
 ---
 
-## ☁️ Deployment
-
-Deployed on **Streamlit Cloud**.
-```
-Main file  →  app.py
-Models     →  models/ folder must be included in the repo
-Secrets    →  none required
-```
-
-1. Push repo to GitHub — include the `models/` folder
-2. Go to [share.streamlit.io](https://share.streamlit.io) and connect your repo
-3. Set main file path to `app.py` and deploy
-
----
-
 ## 👤 Author
 
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/your-username.png" width="88" style="border-radius:50%"/><br/><br/>
-      <b>Your Name</b><br/>
-      <sub>Your short bio or title here</sub><br/><br/>
-      <a href="https://github.com/your-username">
+      <b>Manmath Kornule</b><br/>
+      <sub>Learning AI Everyday</sub><br/><br/>
+      <a href="">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       </a>&nbsp;
-      <a href="https://linkedin.com/in/your-profile">
+      <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
-      <a href="https://your-portfolio.com">
+      <a href="">
         <img src="https://img.shields.io/badge/Portfolio-FF5F38?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
   </tr>
 </table>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
 
 ---
 

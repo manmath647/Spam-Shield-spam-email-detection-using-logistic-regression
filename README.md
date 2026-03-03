@@ -124,16 +124,16 @@ numpy
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/your-username.png" width="88" style="border-radius:50%"/><br/><br/>
+      <img src="https://ui-avatars.com/api/?name=Your+Name&size=88&background=ff5f38&color=ffffff&bold=true&rounded=true" width="88"/><br/><br/>
       <b>Manmath Kornule</b><br/>
       <sub>Learning AI Everyday</sub><br/><br/>
-      <a href="">
+      <a href="https://github.com/your-username">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       </a>&nbsp;
-      <a href="">
+      <a href="https://linkedin.com/in/your-profile">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
-      <a href="">
+      <a href="https://your-portfolio.com">
         <img src="https://img.shields.io/badge/Portfolio-FF5F38?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
       </a>
     </td>

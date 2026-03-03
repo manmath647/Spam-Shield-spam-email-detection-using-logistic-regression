@@ -124,7 +124,7 @@ numpy
 <table>
   <tr>
     <td align="center">
-      <img src="https://ui-avatars.com/api/?name=Your+Name&size=88&background=ff5f38&color=ffffff&bold=true&rounded=true" width="88"/><br/><br/>
+      <img src="https://github.com/manmath647.png" width="88" style="border-radius:50%"/><br/><br/>
       <b>Manmath Kornule</b><br/>
       <sub>Learning AI Everyday</sub><br/><br/>
       <a href="https://github.com/your-username">
@@ -139,7 +139,6 @@ numpy
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">

@@ -11,7 +11,7 @@
 
 <br/>
 
-[![View Demo](https://img.shields.io/badge/🚀__View_Live_Demo-FF5F38?style=for-the-badge&logoColor=white)](https://share.streamlit.io)
+[![View Demo](https://img.shields.io/badge/🚀__View_Live_Demo-FF5F38?style=for-the-badge&logoColor=white)]()
 
 <br/>
 </div>

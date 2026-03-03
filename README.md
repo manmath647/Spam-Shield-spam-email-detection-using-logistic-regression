@@ -10,7 +10,7 @@
 
 <br/>
 
-[![View Demo](https://img.shields.io/badge/🚀__View_Live_Demo-FF5F38?style=for-the-badge&logoColor=white)]()
+[![View Demo](https://img.shields.io/badge/🚀__View_Live_Demo-FF5F38?style=for-the-badge&logoColor=white)](https://spam-shield-mk64spdts.streamlit.app/)
 
 <br/>
 </div>

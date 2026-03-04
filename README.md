@@ -1,3 +1,9 @@
+
+<div align="center">
+
+<img src="assets/logo.png" height="40" alt="SpamShield" />
+
+</div>
 <div align="center">
 
 # 🛡️ SpamShield · Email Analyzer

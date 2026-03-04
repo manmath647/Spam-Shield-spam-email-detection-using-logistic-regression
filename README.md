@@ -4,6 +4,7 @@
 <img src="assets/spam shield logo.png" height="40" alt="SpamShield" />
 
 </div>
+
 <div align="center">
 
 # 🛡️ SpamShield · Email Analyzer

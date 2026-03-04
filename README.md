@@ -30,7 +30,7 @@ SpamShield analyzes email content and instantly classifies it as **Spam** or **N
 | ⚡ | **Real-Time Detection** | Instant verdict the moment you hit Analyze |
 | 📊 | **Confidence Scoring** | Visual bar with exact percentage and spam probability |
 | 🏷️ | **Spam Categorization** | Clusters spam into Promotional, Financial, or Pharmacy types |
-| ⚑ | **Wrong Prediction Reports** | Inline feedback form — Supabase-ready data layer |
+| ⚑ | **Wrong Prediction Reports** | Inline feedback form |
 | 🎨 | **Theme-Neutral UI** | Works on both Streamlit light and dark themes |
 | 🧪 | **Example Presets** | One-click examples for instant testing |
 
@@ -120,7 +120,7 @@ numpy
 ---
 
 ## 👤 Author
-
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -139,9 +139,10 @@ numpy
     </td>
   </tr>
 </table>
----
-
+</div>
 <div align="center">
+
+---
 
 Built with ❤️ using **Streamlit** · **scikit-learn** · **Python**
 

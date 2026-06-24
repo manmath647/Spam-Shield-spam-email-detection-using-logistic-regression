@@ -6,7 +6,7 @@ from styles import STYLES
 from components import render_header, render_idle, render_result
 from report import FEEDBACK_STYLES, init_feedback_state, render_feedback
 
-# ── Page config ───────────────────────────────────────────────────────────────
+
 st.set_page_config(
     page_title="SpamShield · Email Analyzer",
     page_icon="📧",
